@@ -1,3 +1,4 @@
+/* BODY */
 html {
     background-color:black;
     color: white;
@@ -5,26 +6,31 @@ html {
     text-align:center;
 }
 
+/* HEADING */
 h1 {
     font-weight: normal;
     font-size: 50px;
 }
 
+/* LINK */
 a {
     color: aquamarine;
     font-size: 16px;
 }
 
+/* SUB-HEADING */
 h2 {
     font-weight: 300;
     font-size: 42px;
 }
 
+/* PARAGRAPH */
 p {
     font-size: 21px;
     color: gray;
 }
 
+/* FOOTER */
 footer {
     text-align: right;
     color: gray
